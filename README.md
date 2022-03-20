@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saturnss
+- 👋 Hi, I’m @saturnss. Welcome to my Repository!
 - 👀 I’m interested in making something fun. Some day I hope to make my own game.
 - 🌱 I’m currently learning Python and whatever else that looks interesting.
 
